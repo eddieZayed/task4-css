@@ -1,0 +1,17 @@
+
+
+.services{
+    text-align: center;
+}
+
+p{
+    color:grey;
+}
+
+i{
+    color:red;
+}
+.service{
+    display:inline-block;
+    width:24%;
+}
